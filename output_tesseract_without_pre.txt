@@ -2,21 +2,17 @@ Text from page0.jpg:
 United States Patent Office
 
 3,564,768
-Patented Feb. 23, 1971
-
-i
-
-3,564,768
 COATED CORN SEED
 Otto L. Hoffman, Shawnee, Kans,, assignor to Gulf Re-
-search & Development Company, Pittsburgh, Pa., a
-corporation of Delaware 5
+search & Development Company, Pittsburgh, Pa. a
+corporation of Delaware
 No Drawing. Filed Oct. 25, 1968, Ser. No. 770,856
-Int. Cl. AOke 1/06 .
-US. Cl. 47—57.6 2 Claims
 
-10
-ABSTRACT OF THE DISCLOSURE
+Int. Cl. AOte 1/06 .
+CT 2 Claims
+
+US. Cl. 47—57.6
+ABSTRACT OF THE DISCLOSURE a)
 
 Corn is protected from injury by N,N-dialkylthiolcar-
 bamate ester pre-emergent herbicides by coating the corn
@@ -29,11 +25,6 @@ amine salts of strong inorganic acids, N,N’-diallylox-
 amide, N,N’-dipropynyloxamide, N,N,N’,N’-tetrapropyn-
 yloxamide and N,N’-dipropynylmalonamide.
 
-16
-
-20
-
-In U.S. Pat. 3,131,509 there is disclosed the coating
 of crop seeds with a non-phytotoxic quantity of an an-
 tagonistic agent for a selective herbicide, thereby protect-
 ing the crop from injury when the specific herbicide is
@@ -42,7 +33,7 @@ specifically exemplifies the treatment of wheat seed with
 compounds which are antagonists to barban and to cer-
 tain thiolcarbamate herbicides.
 
-In US. Pat. 2,913,327 is disclosed a group of N,N-
+In USS. Pat. 2,913,327 is disclosed a group of N,N-
 dialkylthiolcarbamate herbicides. One of these, S-ethyl
 N,N-dipropylthiolcarbamate (EPTC) has proved to be
 very effective and commercially attractive as a pre-emer-
@@ -82,27 +73,21 @@ for 20 seconds in a Spex mixer. Five seeds are planted
 in a flat of greenhouse soil and lightly covered. EPTC
 (ethyl N,N-dipropylthiolcarbamate) is applied at a rate
 of 8 Ibs./A. It is covered with soil and the fiat is watered.
-In each fiat are two rows of untreated and four rows of 70
+In each fiat are two rows of untreated and four rows of
 treated corn. When control corn (no herbicide) is 50 cm.
 tall, the treatments are rated according to the following
 
-25
+16
+oo
 
-30
-
-40
-
-45
-
-50
-
-55
-
-60
+20
 
 65
 
-35
+70
+
+3,564,768
+Patented Feb. 23, 1971
 
 2
 
@@ -110,7 +95,7 @@ system. Each treatment is rated according to the number
 of plants emerged (0-5) the number distorted by EPTC
 (0-5) and the height. Height is given the following nu-
 merical value: 0=no plants, 1 is 5 cm. or less and is
-equivalent to EPTC, 2 is 6 to 16 cm., 3 is 17 to 27 cm,
+equivalent to EPTC, 2 is 6 to 16 cm., 3 is 17 to 27 cm.,
 4 is 28 to 38 cm., and 5 is 39 cm. or taller. These num-
 bers are given in their respective order. A rating of 5-0-5
 means that five plants emerged, none were distorted and
@@ -124,15 +109,17 @@ sented in the table below.
 Rating (emergence-abnor-
 mality-height)
 
-3% treatment 14% treatment
+8% treatment 14% treatment
 
 Compound:
 
-2.
-N,N-diallyl-1,8-naphthal:
-Propynylamine hydrochloride.
+a ten
+cc ail Propynylamine hydrochloride.
+
+In U.S. Pat. 3,131,509 there is disclosed the coating os
+
 Barium 1,8-naphthalate.
-‘Tin 1,8-naphthalate__.
+‘Tin 1,8-naphthalate...
 
 From the tabulated data it will be seen that some of the
 herbicide antagonists give better results at lower applica-
@@ -158,7 +145,7 @@ field is very detrimental. Operation of the preferred
 method in the field is illustrated in the following exam-
 ples.
 
-EXAMPLE 1
+——— EXAMPLE 1
 
 A plot of ground was tilled and prepared for planting
 corn, EPTC was then incorporated into the upper three
@@ -174,16 +161,17 @@ poses of comparison.
 
 About a week after planting, a rainy sason began, last-
 ing about two weeks, during which time about eleven
-inches of rain fell. This occurrence tended to increase
+inches of rain fell, This occurrence tended to increase
 corn injury by EPTC.
 
 The Pioneer variety of corn was given substantially
-complete protection from EPTC at 24 Ib. per acre by 4%
+complete protection from EPTC at 24 Ib. per acre by %4
 percent by weight of 1,8-naphthalic anhydride coated on
 the seed prior to planting. Substantially complete protec-
 tion of the Dekalb corn from EPTC at 6 1b. per acre
 was also obtained with 14 percent 1,8-naphthalic anhy-
 dride on the seed. At a seed treatment level of 1.0 percent
+
 
 
 Text from page1.jpg:
@@ -205,27 +193,24 @@ treated and weeds were removed by hand.
 
 EXAMPLE 2
 
-Dekalb XL-45 seed corn treated with N,N,N,N’-tetra-
+Dekalb XL-45 seed corn treated with N,
 propynyloxamide was planted in soil prepared as in Ex-
 ample 1. Seed treatment of to 4 percent by weight gave
-substantially complete protection against injury by EPTC
-at arate of 6 Ib. per acre... 2. ee 4
 
-Iclaim:
+substantially complete protection against injury by EPTC |
 
-4. Corn seed bearing.thereon a coating of a substan-
+at a rate of 6 Ib. per acre... _... -
+I claim:
+
+4. Corn seed bearing.thereon a coating of a substan- 99
+
 tially non-phytotoxic amount of 1,8-naphthalic anhydride,
 sufficient to improve the resistance of the corn seed to S-
 ethyl N,N-dipropylthiolcarbamate.
 
 2. Corn seed bearing thereon a coating of an effec-
 
-tive but substantially non-phytotoxic quantity of a com- 9;
-
-pound selected from the group consisting of 1,8-naph-
-thalic acid, lower alkyl 1,8-naphthalate esters, barium and
-
-a
+N,N,N’ -tetra- 1
 
 4
 tin 1,8-naphthalates, 1,8-naphthalic anhydride, N,N-dial-
@@ -235,25 +220,64 @@ N’,N’-tetrapropynyloxamide and N,N’ dipropynylox-
 amide, sufficient to improve the resistance of the corn to
 a selective pre-emergence herbicide.
 
-References Cited
+es
 
+10 2,204,213
+2,280,756
+2,394,915
+2,411,359
+2,421,837 -
+2,770,537
+2,913,327 -
+2,954,643
+3,112,220
+3,113,399
+3,131,509
+
+5
+
+References Cited
 UNITED STATES PATENTS
-2,204,213 6/1940 Grace -_-- ~ Wi—77
-2,280,756 4/1942 Saukatis 71-77
-2,394,915 2/1946 Jones __ TW1—-77X
-2,411,359 11/1946 Billman — 71—77
-2,421,837. 6/1947 Hardman - ~ 71—77X
-2,770,537 11/1956. Smith. et al ---- 71—65
-2,913,327 11/1959 © Tilles et al. 117—100X
-2,954,643 10/1960 Porter et al. - 117—100X
-3,112,220 11/1963 - Heiser et al. 117—100
-3,113,399 12/1963 Eversole et al. 47—57.6
-3,131,509 5/1964 Hoffman —57.6 X
+
+6/1940
+4/1942,
+2/1946
+11/1946
+67/1947
+11/1956).
+11/1959
+10/1960
+11/1963
+12/1963
+5/1964
+
+--- 71—77
+Saukatis
+
+15 __. T1—65
+
+~ 117—100X
+~ 117—100X
+~ 117—100
+~ 47—57.6
+
+Smith. et al.
+
+ Tilles et al.
+Porter et al. _..
+Heiser et al. _
+Eversole et al.
+Hoffman
 
 WILLIAM D. MARTIN, Primary Examiner
 M. R. P. PERRONE, Jr., Assistant Examiner
 
-USS. Cl, XR.
-J17—3 i
+tive but substantially non-phytotoxic quantity of a com- 9;
+
+pound selected from the group consisting of 1,8-naph-
+thalic acid, lower alkyl 1,8-naphthalate esters, barium and
+
+US. CL XR.
+
 
 
